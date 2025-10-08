@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+PyPDF2
+python-docx
+reportlab
+python-dotenv
+google-generativeai
+openpyxl
+scipy
